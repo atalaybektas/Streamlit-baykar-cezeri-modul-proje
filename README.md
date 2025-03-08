@@ -1,8 +1,6 @@
 # baykar-cezeri-proje
-Data Analizi ve Streamlit Üzerine Baykar-Cezeri İleri Python Eğitiminde Verilen Görev
-SVM 
-KNN 
-Naive-Bayes kullanıldı.
+Data ve Model Analizi Streamlit entegrasyonu Baykar-Cezeri İleri Python Eğitiminde Verilen Görev
+SVM, KNN, Naive-Bayes kullanıldı.
 
 GridSearch CV kullanarak en iyi parametreleri bulundu.
 
