@@ -1,4 +1,4 @@
-# baykar-cezeri-proje
+# Baykar-Cezeri proje
 Data ve Model Analizi Streamlit entegrasyonu Baykar-Cezeri İleri Python Eğitimi modulu çalışması
 
 SVM, KNN, Naive-Bayes modelleri kullanıldı.
